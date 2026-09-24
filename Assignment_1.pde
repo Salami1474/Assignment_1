@@ -3,7 +3,7 @@ int lowerNum = Ask.forInt ("Pick an lower number.");
 int upperNum = Ask.forInt ("Pick an upper number.");
 
 
-size(400,400);
+size(500,500);
 background(random(225),random(255),random(255));
 
 circle(200,200,upperNum);
